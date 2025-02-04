@@ -1,4 +1,4 @@
-## Hello, it is Luna :3.
+## Hello, it is Luna :3
 
 Hi, I'm Luna! I'm a trans catgirl who enjoys making a variety of content. I make a variety of projects including Akabot, a Discord bot of mine, Astolfo Forge Mod, which adds a bunch of femboys to Minecraft, or Astolfo is coming for you, which is a windows program where Astolfo comes to you to call you a great human being. Sometimes I also make YouTube videos with my projects, mods, successes, tutorials and other content.
 
