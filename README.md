@@ -1,6 +1,6 @@
-## Hello, it is Emily.
+## Hello, it is Luna :3.
 
-Hi, I'm Emily! I'm a trans catgirl who enjoys making a variety of content. I make a variety of projects including Akabot, a Discord bot of mine, Astolfo Forge Mod, which adds a bunch of femboys to Minecraft, or Astolfo is coming for you, which is a windows program where Astolfo comes to you to call you a great human being. Sometimes I also make YouTube videos with my projects, mods, successes, tutorials and other content.
+Hi, I'm Luna! I'm a trans catgirl who enjoys making a variety of content. I make a variety of projects including Akabot, a Discord bot of mine, Astolfo Forge Mod, which adds a bunch of femboys to Minecraft, or Astolfo is coming for you, which is a windows program where Astolfo comes to you to call you a great human being. Sometimes I also make YouTube videos with my projects, mods, successes, tutorials and other content.
 
 I have a [website with my projects](https://mldchan.dev/). Explore them by clicking `Projects` at the top and scrolling through the page. Explore my social accounts by clicking `Socials` on the top of the page. Explore slightly different pieces of work by clicking `Miscellaneous` on the top of the page.
 
