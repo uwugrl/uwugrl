@@ -16,3 +16,4 @@ Project list (Last updated 2025/2/4):
 - [CatGirl Nonsense](https://mldkyt.nekoweb.org/project/catgirlnonsense/) - A catgirl nonsense generator.
 - [uwurandom-rs](https://git.mldchan.dev/mld/uwurandom-rs/) - UwUrandom rewritten in Rust.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B4GCSPN)
