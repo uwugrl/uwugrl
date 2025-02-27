@@ -8,7 +8,7 @@ I got a website at [mldchan.dev](https://mldchan.dev/). Click `Projects` at the 
 
 ## Find me
 
-- [Fediverse (@mld@social.mldchan.dev](https://social.mldchan.dev/@mld))
+- [Fediverse (@mld@social.mldchan.dev)](https://social.mldchan.dev/@mld)
 - [Codeberg (mldchan)](https://codeberg.org/mldchan)
 - [mldchan git (mld)](https://code.mldchan.dev/mld)
 - [YouTube (mldchan)](https://www.youtube.com/channel/UC7JMha1kjOS7gsJXwNtosNw)
