@@ -6,7 +6,14 @@ This is my GitHub mirror account. All of my code is mirrored here from https://c
 
 I got a website at [mldchan.dev](https://mldchan.dev/). Click `Projects` at the top and scroll down.  Click `Socials` at the top of the page to see my social accounts. Click `Miscellaneous` at the top of the page to see slightly different work.
 
-Project list (Last updated 2025/2/4):
+## Find me
+
+- [Fediverse (@mld@social.mldchan.dev](https://social.mldchan.dev/@mld))
+- [Codeberg (mldchan)](https://codeberg.org/mldchan)
+- [mldchan git (mld)](https://code.mldchan.dev/mld)
+- [YouTube (mldchan)](https://www.youtube.com/channel/UC7JMha1kjOS7gsJXwNtosNw)
+
+## Project list (Last updated 2025/2/4):
 
 - [Akabot](https://mldchan.dev/project/akabot) - A feature packed Discord bot.
 - [GirlSocial](https://mldchan.dev/project/girlsocial) - A new social network focused on inclusivity. (in development)
