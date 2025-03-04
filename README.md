@@ -1,6 +1,6 @@
-## Hello, it is Lunya :3
+## Hello, it is mldchan
 
-Hi, I'm Lunya, a trans catgirl who enjoys making content, like Akabot (a Discord bot), Astolfo Forge Mod (a Minecraft mod), and Astolfo Is Coming for You (a Windows program where Astolfo compliments you). Sometimes I make YouTube videos about projects and other content.
+Hi, I'm mldchan.I enjoy making content, like Akabot (a Discord bot), Astolfo Forge Mod (a Minecraft mod), and Astolfo Is Coming for You (a Windows program where Astolfo compliments you). Sometimes I make YouTube videos about projects and other content.
 
 This is my GitHub mirror account. All of my code is mirrored here from https://code.mldchan.dev/ to [Codeberg](https://codeberg.org/mldchan), [git.gay](https://git.gay/mld/) and [this GitHub account](https://github.com/uwugrl).
 
